@@ -26,7 +26,7 @@
         type: 'video/mp4'
       },
       {
-        src: 'night.webm',
+        src: 'snooploop.webm',
         type: 'video/webm;codecs="vp8, vorbis"'
       }
     ],
